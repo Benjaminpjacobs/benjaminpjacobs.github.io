@@ -37,7 +37,6 @@
 */
 
 body {
-    background: #293f50;
     color: #888;
     font: 300 16px/22px "Helvetica Neue", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -46,6 +45,21 @@ body {
     border-radius: 5px;
     height: 500px;
     margin-top: 25px;
+}
+
+.home {
+    background: url("../images/craig-garner-202.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.title {
+    margin-top: 672px;
+    margin-right: 400px;
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    font: 32px/44px
 }
 
 
@@ -75,4 +89,16 @@ Headings
 
 h3 {
     font: 24px/32px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+/*
+=========================
+Tags
+=========================
+*/
+
+.social {
+    height: 30px;
+    width: 30px;
 }
