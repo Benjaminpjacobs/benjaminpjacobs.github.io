@@ -53,6 +53,24 @@ body {
     background-repeat: no-repeat;
 }
 
+.about {
+    background: url("../images/seth-schwiet-40984.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.blog {
+    background: url("../images/luis-llerena-14739.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.music {
+    background: url("../images/corey-blaz-5003.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
 .title {
     margin-top: 672px;
     margin-right: 400px;
@@ -101,4 +119,8 @@ Tags
 .social {
     height: 30px;
     width: 30px;
+}
+
+.social:hover {
+    opacity: 0.7;
 }
