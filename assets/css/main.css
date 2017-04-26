@@ -49,43 +49,53 @@ body {
 
 .home {
     background: url("../images/craig-garner-202.jpg");
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .about {
     background: url("../images/seth-schwiet-40984.jpg");
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .blog {
     background: url("../images/luis-llerena-14739.jpg");
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .music {
     background: url("../images/corey-blaz-5003.jpg");
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .title {
-    margin-top: 672px;
-    margin-right: 400px;
     display: inline-block;
-    padding: 10px;
-    color: white;
-    font: 32px/44px
+    padding-top: 220px;
+    padding-left: 90px;
+    color: #fff;
+    font: 32px/44px;
+    font-weight: 300
 }
 
 .blog-post {
     margin-top: 50px;
     margin-left: 150px;
     padding-left: 10px;
-    color: #666666;
+    color: #666669;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.about-post {
+    margin-top: 50px;
+    margin-left: 150px;
+    padding-left: 10px;
+    color: #666666;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    line-height: 1.5
 }
 
 
