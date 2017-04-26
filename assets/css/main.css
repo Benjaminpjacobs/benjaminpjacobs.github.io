@@ -80,6 +80,14 @@ body {
     font: 32px/44px
 }
 
+.blog-post {
+    margin-top: 50px;
+    margin-left: 150px;
+    padding-left: 10px;
+    color: #666666;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
 
 /*
 =========================
